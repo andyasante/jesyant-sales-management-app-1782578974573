@@ -1,0 +1,25 @@
+{
+  "name": "sales_management_app",
+  "version": "1.0.0",
+  "description": "A sales management application tailored for a small pharmaceutical store in Ghana.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "src/types/index.d.ts"
+}
